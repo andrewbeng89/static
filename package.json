@@ -1,0 +1,20 @@
+{
+  "name": "static",
+  "version": "0.0.0",
+  "description": "",
+  "main": "serve.js",
+  "dependencies": {
+    "connect": "^3.0.2",
+    "serve-static": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:andrewbeng89/profile.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
